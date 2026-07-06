@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fitness Disclaimer - RepTrackr</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 24px;
+      line-height: 1.6;
+      color: #222;
+    }
+    h1, h2 {
+      color: #111;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Fitness & Medical Disclaimer</h1>
+<p><strong>Last Updated:</strong> July 2026</p>
+
+<h2>General Information</h2>
+<p>RepTrackr is a fitness tracking application designed to log workouts and track progress. It does not provide medical advice.</p>
+
+<h2>No Medical Advice</h2>
+<p>All information provided by this app is for informational and educational purposes only and should not be considered medical advice, diagnosis, or treatment.</p>
+
+<h2>Consult a Professional</h2>
+<p>Always consult a qualified healthcare professional before starting any exercise program, especially if you have pre-existing medical conditions.</p>
+
+<h2>Assumption of Risk</h2>
+<p>Exercise carries inherent risks. By using this app, you acknowledge that you are voluntarily participating in physical activity and assume all associated risks.</p>
+
+<h2>Limitation of Responsibility</h2>
+<p>The developer is not responsible for any injuries, health conditions, or damages resulting from the use or misuse of this application.</p>
+
+</body>
+</html>
